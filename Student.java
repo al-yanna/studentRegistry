@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
-// Name: Alyanna Santos
-// ID: 500962963
+// Alyanna Santos
 
 public class Student implements Comparable<Student>
 {

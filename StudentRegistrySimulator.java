@@ -2,7 +2,7 @@ import java.io.FileNotFoundException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-// Name: Alyanna Santos
+// Alyanna Santos
 
 public class StudentRegistrySimulator
 {

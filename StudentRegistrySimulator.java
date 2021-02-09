@@ -3,7 +3,6 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 // Name: Alyanna Santos
-// ID: 500962963
 
 public class StudentRegistrySimulator
 {

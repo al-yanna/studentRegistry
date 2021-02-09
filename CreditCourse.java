@@ -1,6 +1,5 @@
 
-// Name: Alyanna Santos
-// ID: 500962963
+// Alyanna Santos
 
 public class CreditCourse extends Course
 {

@@ -5,8 +5,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 import java.util.TreeMap;
 
-// Name: Alyanna Santos
-// ID: 500962963
+// Alyanna Santos
 
 public class Registry
 {

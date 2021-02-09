@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 
-// Name: Alyanna Santos
-// ID: 500962963
+// Alyanna Santos
+
 
 public class ActiveCourse extends Course
 {
